@@ -24,7 +24,7 @@ setup(
         ]
     },
     license='Apache 2',
-    install_requires=["requests", "argparse", "logging"],
+    install_requires=["requests"],
     classifiers=[
         'License :: OSI Approved :: Apache Software License',
         'Topic :: Internet :: Name Service (DNS)'
